@@ -481,6 +481,24 @@ border-radius: 50%;
 * 04. START ABOUT ME STYLE
 * ----------------------------------------------------------------------------------------
 */
+
+
+@media screen and (min-width:499px) and (max-width:575px){
+  
+  .slicknav_menu{
+    position: relative !important;
+    top: -41px !important;
+   }
+
+
+
+}
+
+
+
+
+
+
 .about_content_img {
 }
 .about_content_img img {
